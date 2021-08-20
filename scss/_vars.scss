@@ -1,0 +1,30 @@
+$accent-color: #00A0C1;
+$primary-color: #FFA62B;
+$default-color: #737373;
+$title-color: #252B42;
+
+%montserrat-800 {
+  font-family:  'Montserrat-ExtraBold', sans-serif;
+  font-weight: 800;
+}
+
+%montserrat-700 {
+  font-family:  'Montserrat-Bold', sans-serif;
+  font-weight: 700;
+}
+
+%montserrat-600 {
+  font-family:  'Montserrat-SemiBold', sans-serif;
+  font-weight: 600;
+}
+
+%montserrat-500 {
+  font-family:  'Montserrat-Medium', sans-serif;
+  font-weight: 500;
+}
+
+%montserrat-400 {
+  font-family:  'Montserrat-Regular', sans-serif;
+  font-weight: 400;
+}
+
